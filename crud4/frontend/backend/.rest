@@ -1,0 +1,12 @@
+GET  https://5000-indigo-peafowl-6s8etx3b.ws-us17.gitpod.io/api/
+
+###
+POST https://5000-indigo-peafowl-6s8etx3b.ws-us17.gitpod.io/api/signup
+Content-Type: application/json
+
+{
+    "fullname": "lishu gupta",
+    "username": "lishu652",
+    "email" : "lishugupta652@gmail.com",
+    "password": "lishu123"
+}
